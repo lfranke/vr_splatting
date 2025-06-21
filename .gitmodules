@@ -1,0 +1,9 @@
+[submodule "External/saiga"]
+	path = External/saiga
+	url = https://github.com/lfranke/saiga
+[submodule "External/tensorboard_logger"]
+	path = External/tensorboard_logger
+	url = https://github.com/RustingSword/tensorboard_logger/
+[submodule "External/tiny-cuda-nn"]
+	path = External/tiny-cuda-nn
+	url = https://github.com/lfranke/tiny-cuda-nn/
