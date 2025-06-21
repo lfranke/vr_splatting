@@ -45,5 +45,5 @@ Afterwards add ``openvr`` to the ``External/`` folder
 
 ### License
 
-Please note the license of [[3D Gaussian Splatting]](https://github.com/graphdeco-inria/gaussian-splatting), [[STP]](https://github.com/r4dl/StopThePop) and [[gaussian-splatting-cuda]](https://github.com/MrNeRF/gaussian-splatting-cuda), which this project builds upon
+Please note the license of [[3D Gaussian Splatting]](https://github.com/graphdeco-inria/gaussian-splatting), [[STP]](https://github.com/r4dl/StopThePop), TRIPS and [[gaussian-splatting-cuda]](https://github.com/MrNeRF/gaussian-splatting-cuda), which this project builds upon
 
