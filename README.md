@@ -11,7 +11,7 @@ Our evaluation confirms that our approach increases sharpness and details compar
 
 ## Citation
 
-````
+```
 @article{franke2025vrsplatting,
     title={VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points},
     author={Linus Franke and Laura Fink and Marc Stamminger},
