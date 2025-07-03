@@ -1,4 +1,4 @@
-# TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering
+# VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points
 
 <div style="text-align: center;">Linus Franke, Laura Fink, Marc Stamminger</div>
 
